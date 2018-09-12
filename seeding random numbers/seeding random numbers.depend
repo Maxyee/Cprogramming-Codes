@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408174223 source:g:\c programming\seeding random numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
